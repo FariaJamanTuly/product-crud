@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bEAC1ebkJMEZlhvw4lXnandvDMTBhFgtupbc03et5Qg7aFxJ9P1oKUrAq6JAOXDemrdXySLUxYDPQo/QPX6sAg==",
+  "success": true,
+  "projectFilePath": "D:\\ClassIT\\Hire And Train\\Employee\\Employee\\Employee.Service.Model\\Employee.Service.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,69 @@
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.deps.json
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.dll
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.pdb
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Model.dll
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Repository.dll
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Shared.dll
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Model.pdb
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Repository.pdb
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\AspNet\Employee\Employee.Core\bin\Debug\net7.0\Employee.Shared.pdb
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.AssemblyReference.cache
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.AssemblyInfoInputs.cache
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.AssemblyInfo.cs
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.CoreCompileInputs.cache
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.CopyComplete
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.dll
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\refint\Employee.Core.dll
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.pdb
+D:\AspNet\Employee\Employee.Core\obj\Debug\net7.0\ref\Employee.Core.dll
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.deps.json
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.dll
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.pdb
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Model.dll
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Repository.dll
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Shared.dll
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Model.pdb
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Repository.pdb
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Shared.pdb
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.AssemblyReference.cache
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.AssemblyInfoInputs.cache
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.AssemblyInfo.cs
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.CoreCompileInputs.cache
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.CopyComplete
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.dll
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\refint\Employee.Core.dll
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.pdb
+D:\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\ref\Employee.Core.dll
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.deps.json
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.dll
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Core.pdb
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Infrastructure.dll
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Model.dll
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Repository.dll
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Service.Model.dll
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Shared.dll
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Model.pdb
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Repository.pdb
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Service.Model.pdb
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Infrastructure.pdb
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\bin\Debug\net7.0\Employee.Shared.pdb
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.AssemblyReference.cache
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.AssemblyInfoInputs.cache
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.AssemblyInfo.cs
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.CoreCompileInputs.cache
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.csproj.CopyComplete
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.dll
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\refint\Employee.Core.dll
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\Employee.Core.pdb
+D:\ClassIT\Hire And Train\Employee\Employee\Employee.Core\obj\Debug\net7.0\ref\Employee.Core.dll
